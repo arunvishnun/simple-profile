@@ -328,18 +328,3 @@ div.subdetailsDescription {
 		opacity: 1;
 	}
 }
-
-.quickFade {
-    -webkit-animation-name: reset, fade-in;
-    -webkit-animation-duration: 1s;
-    -webkit-animation-timing-function: ease-in;
-	
-	-moz-animation-name: reset, fade-in;
-    -moz-animation-duration: 1s;
-    -moz-animation-timing-function: ease-in;
-	
-	animation-name: reset, fade-in;
-    animation-duration: 1s;
-    animation-timing-function: ease-in;
-}
- 
