@@ -37,6 +37,8 @@ div {
 	line-height: 22px;
 }
 
+i {}
+
 .clear {clear: both;}
 
 
@@ -109,20 +111,10 @@ p {
 	color: #444;
 }
 
-#contactDetails ul li a, a[href^=tel] {
+#contactDetails ul li a, #contactDetails ul li a:hover, a[href^=tel], .url {
 	color: #0088CC; 
 	text-decoration: none;
-	-webkit-transition: all .3s ease-in;
-	-moz-transition: all .3s ease-in;
-	-o-transition: all .3s ease-in;
-	-ms-transition: all .3s ease-in;
-	transition: all .3s ease-in;
 }
-
-#contactDetails ul li a:hover { 
-	color: #0088CC;
-}
-
 
 section {
 	border-top: 1px solid #dedede;
