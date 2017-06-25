@@ -154,7 +154,8 @@ section:last-child {
 }
 
 .sectionContent h2 {
-	font-size: 1.5em;
+	/*font-size: 1.5em;*/
+	font-size: 1.3em;
 	font-weight: bold;
     display: inline;
 }
@@ -168,13 +169,6 @@ section:last-child {
     float: left;
     text-align: right;
 }
-/*.keySkills {
-	list-style-type: none;
-	-moz-column-count:2;
-	-webkit-column-count:2;
-	column-count:2;
-	margin-bottom: 20px;
-}*/
 
 .sectionTitle {
 	font-size: 18px;
