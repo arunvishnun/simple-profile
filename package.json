@@ -1,0 +1,26 @@
+{
+  "name": "simple-profile",
+  "version": "1.0.0",
+  "description": "profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunvishun/simple-profile.git"
+  },
+  "author": "Arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunvishun/simple-profile/issues"
+  },
+  "homepage": "https://github.com/arunvishun/simple-profile#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+    "forever-monitor": "^1.7.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  },
+  "devDependencies": {}
+}
