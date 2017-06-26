@@ -119,7 +119,7 @@ p {
 section {
 	border-top: 1px solid #dedede;
 	padding: 20px 0 0;
-	margin-bottom: 24px;
+	margin-bottom: 12px;
 }
 
 section:first-child {
@@ -181,6 +181,10 @@ div.subdetailsDescription {
 }
 
 @media all and (min-width: 602px) and (max-width: 800px) {
+	#cv {
+		margin: auto;
+	}
+
 	#headshot {
 		display: none;
 	}
